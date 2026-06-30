@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0222/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0222_WYG_000-1a, image: WYG1291/WYG1291-0765a.png}
+body:
+  text: 淡然軒集别集類五明提要臣等謹案淡然軒集八巻明余繼登撰繼登字世用交河人萬厯丁丑進士官至禮部尚書謚文恪是集分奏疏二巻序記三巻誌銘及雜文二巻詩一巻繼登卒後其友人馮琦選而刻之繼登當神宗朝以災異屢見上疏極陳一切誅求開採之害民者又請神宗躬郊廟冊元子停礦税撤中使時將討播州楊應龍因請罷四川礦税以佐兵食復上言近者天地人皆不和怨毒凝結臣子不能感動君父故天地人皆以非常之變警悟陛下不可恬不為意云云語皆切中時弊其疏具載此集中詩文則應酬之作未免失于刋削然大抵平正淳實無萬厯中佻薄之習亦尚不失典型也乾隆四十五年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:698087cf0f219cb9f5cffde7dadf0dc8e7cbd2a26e57d21d81012f9542014a45
+metadata:
+  title: 淡然軒集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:26:38.904323'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0222/KR4e0222_000.txt
+hash: sha256:ccb5f1d69fbc7e63350433e02bb4e29b970a86dce0a12aabb01e98f6fdd58870
